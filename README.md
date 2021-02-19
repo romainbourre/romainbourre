@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Romain 👋
+
+More details about me 👉 [romainbourre.fr](https://romainbourre.fr)
 
 <!--
 **romainbourre/romainbourre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
