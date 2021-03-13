@@ -1,6 +1,11 @@
-### Hi I'm Romain 👋
+# Bonjour, moi c'est Romain 👋
 
-More details about me 👉 [romainbourre.fr](https://romainbourre.fr)
+Ancien militaire reconvertit dans le monde de l’ingénierie informatique, j’aime construire et réfléchir à des solutions répondant à des besoins.
+Le code est la chose la plus passionnante que j’ai trouvée pour faire tout ça 🔥. J’aime en parler, le remettre en question et trouver de nouveaux moyens pour faire un code toujours plus propre 🚀.
+
+Je me considère, avec prétention, comme un artisan.
+
+Plus de détails sur moi 👉 [romainbourre.github.io](https://romainbourre.github.io)
 
 <!--
 **romainbourre/romainbourre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
