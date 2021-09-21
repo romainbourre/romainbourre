@@ -5,7 +5,7 @@ Le code est la chose la plus passionnante que j’ai trouvée pour faire tout ç
 
 Je me considère, avec prétention, comme un artisan.
 
-Plus de détails sur moi 👉 [romainbourre.github.io](https://romainbourre.github.io)
+Plus de détails sur moi 👉 [romainbourre.fr](https://romainbourre.fr)
 
 <!--
 **romainbourre/romainbourre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
