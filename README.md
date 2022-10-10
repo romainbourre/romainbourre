@@ -1,23 +1,9 @@
 # Bonjour, moi c'est Romain 👋
 
-Ancien militaire reconvertit dans le monde de l’ingénierie informatique, j’aime construire et réfléchir à des solutions répondant à des besoins.
-Le code est la chose la plus passionnante que j’ai trouvée pour faire tout ça 🔥. J’aime en parler, le remettre en question et trouver de nouveaux moyens pour faire un code toujours plus propre 🚀.
+Je suis convaincu que l’on peu concevoir des solutions robustes rapidement. 
 
-Je me considère, avec prétention, comme un artisan.
+💻 Créateur de logiciel
+
+🫃 Co-parent de [myfeedbacks.fr](https://feedbacks.fr)
 
 Plus de détails sur moi 👉 [romainbourre.fr](https://romainbourre.fr)
-
-<!--
-**romainbourre/romainbourre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
